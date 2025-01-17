@@ -4,6 +4,10 @@ The Financial Analysis Crew is a Streamlit application designed to assist in com
 
 ---
 
+## Interface :
+![ChatBot App](fsa_1.jpg)
+![ChatBot App](fsa_2.jpg)
+
 ## Features
 
 - **Financial Data Collection:** Uses advanced agents to gather data for specified stock tickers.
